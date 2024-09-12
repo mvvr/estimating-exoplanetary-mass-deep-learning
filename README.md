@@ -6,7 +6,15 @@
 ## Overview
 This project aims to develop a deep learning model to estimate the mass of exoplanets based on observational data. The model leverages neural networks to predict planetary mass from various features, such as transit depth and orbital period, obtained from space missions and observatories.
 
-**** This Project is part of my Final Semester Project Training Program under Planetary Science Division at Physical Research Laboratory ****
+##### This Project is part of my Final Semester Project Training Program under Planetary Science Division at Physical Research Laboratory. 
+##### Scope of work
+1. Study of exoplanet with deep learning
+Exoplanets - planets outside the solar system – show a wide range of diversity, and their study is at the
+forefront of modern-day astronomy. Although about 6000 exoplanets have been confirmed, in many cases,
+known properties about individual exoplanets are sparse. Deep learning and artificial intelligence (AI) tools
+have recently been used to estimate missing values. In this project, we first plan to use available tool-kits to
+understand various facets of the topic and then use available data for parameters such as planet mass, planet
+radius, orbital period, stellar mass, equilibrium temperature, etc., to derive/estimate the unknown.
 
 
 
